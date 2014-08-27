@@ -1,4 +1,4 @@
-#Wave#2
+#Wave#1
 > [Behrooz Tahanzadeh](http://b-tz.com)<br/>
 > Aug 2014
 
